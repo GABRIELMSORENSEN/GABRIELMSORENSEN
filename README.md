@@ -1,109 +1,80 @@
 <div align="center">
 
-# 🔁 Starting Life in Another Repository from Zero
-
-### Gabriel M Sorensen · G4T0XX
-
-<a href="https://gabrielmsorensen.github.io/g4t0xx-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<a href="https://gabrielmsorensen.github.io/g4t0xx-portfolio/">
+  <img src="assets/cover.png" width="100%" alt="G4T0XX — Return by Death. Rebuild by Code. Capa de fantasia sombria inspirada em Satella, com mãos de sombra, relógio quebrado e moldura gótica." />
 </a>
-<a href="https://github.com/GABRIELMSORENSEN/g4t0xx-portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/Projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio do portfolio"/>
+
+<img src="assets/loop.gif" width="100%" alt="Relógio ritual animado: return, rebuild, repeat. O próximo loop começa na criação." />
+
+**Gabriel Sorensen · G4T0XX**
+
+<p>Crio entre mundos: <strong>inteligência artificial local, Android, desktop, web e VRChat</strong>.<br/>
+Também exploro avatares, modelagem 3D, áudio e edição com IA.<br/>
+Re:Zero é meu anime favorito. Aqui, cada falha vira conhecimento para o próximo loop.</p>
+
+<p><strong><a href="https://gabrielmsorensen.github.io/g4t0xx-portfolio/">PORTFÓLIO ↗</a></strong> &nbsp; · &nbsp; <strong><a href="https://github.com/GABRIELMSORENSEN?tab=repositories">REPOSITÓRIOS ↗</a></strong> &nbsp; · &nbsp; <strong><a href="https://youtube.com/@xg4t0xx">YOUTUBE ↗</a></strong> &nbsp; · &nbsp; <strong><a href="https://www.instagram.com/g4_wps/">INSTAGRAM ↗</a></strong></p>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/eyes-still.png" />
+  <img src="assets/eyes.gif" width="100%" alt="Três olhos nas sombras piscam em momentos diferentes e reviram lentamente. Não desvie o olhar." />
+</picture>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="55%">
+<a href="https://tenor.com/view/natsuki-subaru-return-by-death-re-zero-anime-subaru-gif-6207545841974046974">
+<img src="assets/return-by-death.gif" width="100%" alt="Natsuki Subaru em uma sequência de Return by Death, de Re:Zero. GIF de sleepingkogoro no Tenor." />
 </a>
-<img src="https://img.shields.io/badge/Software_Engineer-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="Software Engineer"/>
+</td>
+<td align="center" width="45%">
+<img src="assets/covenant.svg" width="100%" alt="O pacto: criar, falhar, aprender, recomeçar. Arquivo de um criador entre código e mundos virtuais." />
+</td>
+</tr>
+</table>
+
+<img src="assets/projects.svg" width="100%" alt="01 — Fragmentos de outros mundos: projetos públicos" />
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/GABRIELMSORENSEN/POLIGON-ASSISTENT-AI"><img src="assets/project-POLIGON-ASSISTENT-AI.svg" width="100%" alt="POLIGON — assistente desktop com IA, voz e visão de tela. Python." /></a></td>
+<td width="50%"><a href="https://github.com/GABRIELMSORENSEN/Forge-Mobile"><img src="assets/project-Forge-Mobile.svg" width="100%" alt="Forge — chat, memória e ferramentas no Android e PC. Java e IA local." /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/GABRIELMSORENSEN/GatoFocus-VR"><img src="assets/project-GatoFocus-VR.svg" width="100%" alt="GatoFocus VR — estimativa de olhar para VRChat e SteamVR. Python e OSC." /></a></td>
+<td><a href="https://github.com/GABRIELMSORENSEN/PORSUIT-REMOTE"><img src="assets/project-PORSUIT-REMOTE.svg" width="100%" alt="Porsuit Remote — controle do PC pelo Android, VPN privada e Wake-on-LAN." /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/GABRIELMSORENSEN/GATARME"><img src="assets/project-GATARME.svg" width="100%" alt="GATARME — alarmes Android para escalas de trabalho. Java." /></a></td>
+<td><a href="https://github.com/GABRIELMSORENSEN/mania-chart-studio"><img src="assets/project-mania-chart-studio.svg" width="100%" alt="Mania Chart Studio — editor local de charts osu!mania 4K. Python e áudio." /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/GABRIELMSORENSEN/g4-docs-editor"><img src="assets/project-g4-docs-editor.svg" width="100%" alt="G4 Docs Editor — editor PDF local para desktop e web. TypeScript." /></a></td>
+<td><a href="https://github.com/GABRIELMSORENSEN/g4t0xx-portfolio"><img src="assets/project-g4t0xx-portfolio.svg" width="100%" alt="Portfólio — interface com React, Vite e Framer Motion." /></a></td>
+</tr>
+</table>
+
+<sub>Entre no repositório de cada projeto para ver estado, instalação e limitações.</sub>
+
+<img src="assets/metrics-section.svg" width="100%" alt="02 — O registro dos loops: métricas personalizadas" />
+
+<img src="assets/metrics.svg" width="100%" alt="Painel de dados públicos: repositórios, linguagens, estrelas, forks e data da atualização." />
+<img src="assets/languages.svg" width="100%" alt="Distribuição das linguagens por bytes de código nos repositórios públicos originais." />
+<img src="assets/activity.svg" width="100%" alt="Calendário de contribuições no GitHub, com intensidade em tons de ametista e datas do período." />
+
+<sub>Dados reais do GitHub. Linguagens são medidas por bytes de código, não por nível de domínio. O calendário segue as regras de visibilidade do GitHub. [Dados e atualização](data/public-metrics.json).</sub>
+
+<img src="assets/inventory.svg" width="100%" alt="03 — Arsenal de criação" />
+
+<img src="assets/arsenal.svg" width="100%" alt="Ferramentas: Python, Java, C#, TypeScript, JavaScript; Android, Windows, React, Unity, Blender, VRChat e áudio/vídeo." />
+
+<br/>
+
+**[LINKEDIN ↗](https://www.linkedin.com/in/gabriel-matos-sorensen-a16672406/)** &nbsp; · &nbsp; **Discord: `g4_wps`**
+
+<img src="assets/footer.svg" width="100%" alt="Re:start — eu posso recomeçar. O que aprendi vem comigo." />
+
+<sub>Fan profile inspirado em Re:Zero · sem afiliação oficial.<br/>GIF: sleepingkogoro / Tenor. Arte de capa gerada para este perfil; molduras, cartões e métricas próprios. [Créditos](docs/SOURCES.md).</sub>
 
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=FF0000&center=true&vCenter=true&width=760&lines=Software+Engineer;IA+Multimodelo+%7C+Mobile+%7C+WebGL;Produtos+digitais+com+performance+e+design" alt="Typing SVG"/>
-</div>
-
-Olá! Eu sou o **GABRIEL SORENSEN**. Bem-vindo ao meu perfil no GitHub!
-
-Assim como o Subaru, acredito que não importa quantas vezes o código "quebre" ou os bugs apareçam, sempre podemos dar um *Return by Death*, aprender com a falha e voltar mais fortes para compilar de novo.
-
-<div align="center">
-  <img src="https://i.imgur.com/5ebiiM8.gif" width="420" alt="Puck animando o Subaru GIF"/>
-</div>
-
-## ⚡ Portfolio Profissional
-
-<div align="center">
-
-| Site | Foco | Stack |
-|---|---|---|
-| [gabrielmsorensen.github.io/g4t0xx-portfolio](https://gabrielmsorensen.github.io/g4t0xx-portfolio/) | IA, Mobile, WebGL, Shaders e produtos web | Next.js, TypeScript, Tailwind, Framer Motion, GSAP, React Three Fiber |
-
-</div>
-
-Sou estudante de Computação em Mato Grosso e trabalho unindo engenharia de software com tecnologias de fronteira: integrações de IA multimodelo, desenvolvimento mobile, interfaces web, rigging 3D, shaders e ambientes imersivos em VRChat.
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **Poligon Assistant** | Assistente desktop integrado com Groq, Claude e Ollama. | Electron · TypeScript · IA |
-| **Nexus - Gamer Hub** | Plataforma social gamer com comunicação e chat em tempo real. | React · Realtime · Cloud |
-| **G4T0XX YT Music Player** | App Android feito com React e Capacitor. | React · Capacitor · Android |
-
-</div>
-
-## ⚔️ Minha Jornada (Save Point)
-
-* 🎓 Atualmente estudando e me desenvolvendo na **Uninter**.
-* 🗣️ Em constante nivelamento de idiomas: praticando **Inglês** e **Japonês**.
-* 🎨 Explorando o universo da **Modelagem 3D** e criação de avatares.
-* 🎮 Quando não estou focado no código ou no hardware, me encontra no **VRChat**, ou jogando **Valorant**, **Minecraft** e **Resident Evil**.
-
-## 🛠️ Ferramentas e Inventário
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock&logoColor=88CE02" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Capacitor-111827?style=for-the-badge&logo=capacitor&logoColor=119EFF" />
-  <img src="https://img.shields.io/badge/Electron-111827?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware-4285F4?style=for-the-badge&logo=pc&logoColor=white" />
-</div>
-
-## 📺 Onde me encontrar
-
-<div align="center">
-  <a href="https://youtube.com/@xg4t0xx" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.instagram.com/g4_wps" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-matos-sorensen-a16672406?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/badge/Discord-g4__wps-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</div>
-
-## 📈 Atividade
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GABRIELMSORENSEN&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=GABRIELMSORENSEN&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=000000" alt="GitHub streak"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=90&section=footer" alt="G4T0XX profile footer"/>
-</div>
-
-<br>
-
-> *"I have no strength, but I want it all. I have no knowledge, but all I do is dream. There's nothing I can do, but I struggle in vain."* — Natsuki Subaru

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc"><title id="title">Olhos nas sombras: três olhos piscam em momentos diferentes e reviram lentamente</title><desc id="desc">Arte original G4T0XX. Tema escuro, molduras góticas, névoa e relógios inspirados em Re:Zero.</desc><defs><radialGradient id="aura"><stop stop-color="#743bad" stop-opacity=".42"/><stop offset="1" stop-color="#09080f" stop-opacity="0"/></radialGradient><linearGradient id="edge"><stop stop-color="#452b65"/><stop offset=".5" stop-color="#b685f6"/><stop offset="1" stop-color="#452b65"/></linearGradient><linearGradient id="fade"><stop stop-color="#09080f"/><stop offset="1" stop-color="#1c1127"/></linearGradient></defs><style>text{font-family:'Courier New',monospace}.serif{font-family:Georgia,'Times New Roman',serif}.small{font-size:11px;letter-spacing:2px;fill:#9b91ad}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style><rect width="100%" height="100%" fill="#09080f"/><ellipse cx="640" cy="134" rx="570" ry="130" fill="url(#aura)"/><text x="43" y="48" fill="#ad79ff" font-size="12" letter-spacing="2">UNSEEN PRESENCES / RE:ZERO INSPIRED</text><text x="946" y="48" fill="#9b91ad" font-size="12" letter-spacing="2">NÃO DESVIE O OLHAR.</text><defs><clipPath id="eye-0"><path d="M-116 0 Q-55 -68 0 -49 Q59 -49 116 0 Q48 61 0 47 Q-61 55 -116 0Z"/></clipPath><radialGradient id="iris-0"><stop stop-color="#e8d4fa"/><stop offset=".35" stop-color="#bf8df5"/><stop offset=".7" stop-color="#68327d"/><stop offset="1" stop-color="#160c22"/></radialGradient><linearGradient id="sclera-0" x2="0" y2="1"><stop stop-color="#796484"/><stop offset=".5" stop-color="#d4c5dd"/><stop offset="1" stop-color="#8e759b"/></linearGradient></defs>
+ <g transform="translate(246 143)">
+ <path d="M-143 0 H-129 M129 0 H143 M0 -77 V-66 M0 67 V77" stroke="#7c4c92"/>
+ <path d="M-125 -9 Q-60 -88 22 -70 Q82 -57 125 -8" stroke="#392344" fill="none"/>
+ <g><animateTransform attributeName="transform" type="scale" values="1 1;1 1;1 .015;1 1;1 1" keyTimes="0;.28;.305;.33;1" dur="6s" begin="0s" repeatCount="indefinite"/>
+ <path d="M-116 0 Q-55 -68 0 -49 Q59 -49 116 0 Q48 61 0 47 Q-61 55 -116 0Z" fill="url(#sclera-0)" stroke="#0c0712" stroke-width="5"/>
+ <g clip-path="url(#eye-0)">
+ <path d="M-110 -1 L-87 2 L-74 -8 M103 0 L88 5 L75 -6 M-77 29 L-58 22" stroke="#a8668f" opacity=".5" fill="none" stroke-width="1.2"/>
+ <g><animateTransform attributeName="transform" type="translate" values="0 0;0 0;-35 -8;-18 -35;0 -50;25 -32;38 -8;0 0;0 0" keyTimes="0;.17;.31;.4;.49;.58;.67;.8;1" dur="6s" begin="0s" repeatCount="indefinite"/>
+ <circle r="43" fill="url(#iris-0)" stroke="#24132c" stroke-width="3"/>
+ <circle r="31" stroke="#bf8df5" stroke-opacity=".6" fill="none"/>
+ <path d="M0 -35 V-20 M18 -30 L11 -18 M30 -17 L17 -10 M35 0 H20 M29 19 L17 11 M17 30 L10 18 M0 35 V20 M-17 30 L-10 18 M-30 18 L-18 11 M-35 0 H-20 M-29 -18 L-17 -11 M-17 -30 L-10 -18" stroke="#e6bafa" stroke-opacity=".45" stroke-width="1"/>
+ <ellipse rx="11" ry="28" fill="#09050d"/><ellipse cx="-16" cy="-16" rx="7" ry="5" fill="#f8edff" opacity=".9"/><circle cx="17" cy="13" r="3" fill="#e2c4f5" opacity=".75"/>
+ </g></g>
+ <path d="M-121 -2 Q-48 -69 11 -51 Q79 -47 121 -2 M-116 1 Q-46 64 10 48 Q81 42 116 1" stroke="#4e2b60" stroke-width="3" fill="none"/>
+ <path d="M-116 -1 L-129 -12 M-96 -18 L-104 -33 M-70 -37 L-73 -50 M92 -18 L104 -34 M113 -5 L129 -17" stroke="#80608e" stroke-width="2"/>
+ </g>
+ <path d="M-117 0 Q0 -6 117 0" stroke="#bf8df5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.28;.305;.33;1" dur="6s" begin="0s" repeatCount="indefinite"/></path>
+ </g><defs><clipPath id="eye-1"><path d="M-116 0 Q-55 -68 0 -49 Q59 -49 116 0 Q48 61 0 47 Q-61 55 -116 0Z"/></clipPath><radialGradient id="iris-1"><stop stop-color="#e8d4fa"/><stop offset=".35" stop-color="#df6a9c"/><stop offset=".7" stop-color="#68327d"/><stop offset="1" stop-color="#160c22"/></radialGradient><linearGradient id="sclera-1" x2="0" y2="1"><stop stop-color="#796484"/><stop offset=".5" stop-color="#d4c5dd"/><stop offset="1" stop-color="#8e759b"/></linearGradient></defs>
+ <g transform="translate(640 143)">
+ <path d="M-143 0 H-129 M129 0 H143 M0 -77 V-66 M0 67 V77" stroke="#7c4c92"/>
+ <path d="M-125 -9 Q-60 -88 22 -70 Q82 -57 125 -8" stroke="#392344" fill="none"/>
+ <g><animateTransform attributeName="transform" type="scale" values="1 1;1 1;1 .015;1 1;1 1" keyTimes="0;.28;.305;.33;1" dur="6s" begin="1.1s" repeatCount="indefinite"/>
+ <path d="M-116 0 Q-55 -68 0 -49 Q59 -49 116 0 Q48 61 0 47 Q-61 55 -116 0Z" fill="url(#sclera-1)" stroke="#0c0712" stroke-width="5"/>
+ <g clip-path="url(#eye-1)">
+ <path d="M-110 -1 L-87 2 L-74 -8 M103 0 L88 5 L75 -6 M-77 29 L-58 22" stroke="#a8668f" opacity=".5" fill="none" stroke-width="1.2"/>
+ <g><animateTransform attributeName="transform" type="translate" values="0 0;0 0;-35 -8;-18 -35;0 -50;25 -32;38 -8;0 0;0 0" keyTimes="0;.17;.31;.4;.49;.58;.67;.8;1" dur="6s" begin="1.1s" repeatCount="indefinite"/>
+ <circle r="43" fill="url(#iris-1)" stroke="#24132c" stroke-width="3"/>
+ <circle r="31" stroke="#df6a9c" stroke-opacity=".6" fill="none"/>
+ <path d="M0 -35 V-20 M18 -30 L11 -18 M30 -17 L17 -10 M35 0 H20 M29 19 L17 11 M17 30 L10 18 M0 35 V20 M-17 30 L-10 18 M-30 18 L-18 11 M-35 0 H-20 M-29 -18 L-17 -11 M-17 -30 L-10 -18" stroke="#e6bafa" stroke-opacity=".45" stroke-width="1"/>
+ <ellipse rx="11" ry="28" fill="#09050d"/><ellipse cx="-16" cy="-16" rx="7" ry="5" fill="#f8edff" opacity=".9"/><circle cx="17" cy="13" r="3" fill="#e2c4f5" opacity=".75"/>
+ </g></g>
+ <path d="M-121 -2 Q-48 -69 11 -51 Q79 -47 121 -2 M-116 1 Q-46 64 10 48 Q81 42 116 1" stroke="#4e2b60" stroke-width="3" fill="none"/>
+ <path d="M-116 -1 L-129 -12 M-96 -18 L-104 -33 M-70 -37 L-73 -50 M92 -18 L104 -34 M113 -5 L129 -17" stroke="#80608e" stroke-width="2"/>
+ </g>
+ <path d="M-117 0 Q0 -6 117 0" stroke="#df6a9c" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.28;.305;.33;1" dur="6s" begin="1.1s" repeatCount="indefinite"/></path>
+ </g><defs><clipPath id="eye-2"><path d="M-116 0 Q-55 -68 0 -49 Q59 -49 116 0 Q48 61 0 47 Q-61 55 -116 0Z"/></clipPath><radialGradient id="iris-2"><stop stop-color="#e8d4fa"/><stop offset=".35" stop-color="#bf8df5"/><stop offset=".7" stop-color="#68327d"/><stop offset="1" stop-color="#160c22"/></radialGradient><linearGradient id="sclera-2" x2="0" y2="1"><stop stop-color="#796484"/><stop offset=".5" stop-color="#d4c5dd"/><stop offset="1" stop-color="#8e759b"/></linearGradient></defs>
+ <g transform="translate(1034 143)">
+ <path d="M-143 0 H-129 M129 0 H143 M0 -77 V-66 M0 67 V77" stroke="#7c4c92"/>
+ <path d="M-125 -9 Q-60 -88 22 -70 Q82 -57 125 -8" stroke="#392344" fill="none"/>
+ <g><animateTransform attributeName="transform" type="scale" values="1 1;1 1;1 .015;1 1;1 1" keyTimes="0;.28;.305;.33;1" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+ <path d="M-116 0 Q-55 -68 0 -49 Q59 -49 116 0 Q48 61 0 47 Q-61 55 -116 0Z" fill="url(#sclera-2)" stroke="#0c0712" stroke-width="5"/>
+ <g clip-path="url(#eye-2)">
+ <path d="M-110 -1 L-87 2 L-74 -8 M103 0 L88 5 L75 -6 M-77 29 L-58 22" stroke="#a8668f" opacity=".5" fill="none" stroke-width="1.2"/>
+ <g><animateTransform attributeName="transform" type="translate" values="0 0;0 0;-35 -8;-18 -35;0 -50;25 -32;38 -8;0 0;0 0" keyTimes="0;.17;.31;.4;.49;.58;.67;.8;1" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+ <circle r="43" fill="url(#iris-2)" stroke="#24132c" stroke-width="3"/>
+ <circle r="31" stroke="#bf8df5" stroke-opacity=".6" fill="none"/>
+ <path d="M0 -35 V-20 M18 -30 L11 -18 M30 -17 L17 -10 M35 0 H20 M29 19 L17 11 M17 30 L10 18 M0 35 V20 M-17 30 L-10 18 M-30 18 L-18 11 M-35 0 H-20 M-29 -18 L-17 -11 M-17 -30 L-10 -18" stroke="#e6bafa" stroke-opacity=".45" stroke-width="1"/>
+ <ellipse rx="11" ry="28" fill="#09050d"/><ellipse cx="-16" cy="-16" rx="7" ry="5" fill="#f8edff" opacity=".9"/><circle cx="17" cy="13" r="3" fill="#e2c4f5" opacity=".75"/>
+ </g></g>
+ <path d="M-121 -2 Q-48 -69 11 -51 Q79 -47 121 -2 M-116 1 Q-46 64 10 48 Q81 42 116 1" stroke="#4e2b60" stroke-width="3" fill="none"/>
+ <path d="M-116 -1 L-129 -12 M-96 -18 L-104 -33 M-70 -37 L-73 -50 M92 -18 L104 -34 M113 -5 L129 -17" stroke="#80608e" stroke-width="2"/>
+ </g>
+ <path d="M-117 0 Q0 -6 117 0" stroke="#bf8df5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.28;.305;.33;1" dur="6s" begin="2.4s" repeatCount="indefinite"/></path>
+ </g><text x="461" y="251" fill="#9b91ad" font-size="13" letter-spacing="3">THE SHADOWS ARE WATCHING</text><rect x="12" y="12" width="1256" height="256" fill="none" stroke="#32243f"/><rect x="20" y="20" width="1240" height="240" fill="none" stroke="#1e1828"/><g transform="translate(12,12) scale(1,1)"><path d="M0 48 V0 H48 M7 31 V7 H31 M0 0 L21 21 M11 25 Q30 30 25 11" stroke="#ad79ff" stroke-width="1" fill="none"/><path d="M4 42 L10 36 L16 42 L10 48 Z" fill="#543460"/></g><g transform="translate(1268,12) scale(-1,1)"><path d="M0 48 V0 H48 M7 31 V7 H31 M0 0 L21 21 M11 25 Q30 30 25 11" stroke="#ad79ff" stroke-width="1" fill="none"/><path d="M4 42 L10 36 L16 42 L10 48 Z" fill="#543460"/></g><g transform="translate(12,268) scale(1,-1)"><path d="M0 48 V0 H48 M7 31 V7 H31 M0 0 L21 21 M11 25 Q30 30 25 11" stroke="#ad79ff" stroke-width="1" fill="none"/><path d="M4 42 L10 36 L16 42 L10 48 Z" fill="#543460"/></g><g transform="translate(1268,268) scale(-1,-1)"><path d="M0 48 V0 H48 M7 31 V7 H31 M0 0 L21 21 M11 25 Q30 30 25 11" stroke="#ad79ff" stroke-width="1" fill="none"/><path d="M4 42 L10 36 L16 42 L10 48 Z" fill="#543460"/></g></svg>
